@@ -1,14 +1,14 @@
-# Tic-Tac-Toe
+# Tic-Tac-Toe 🎲
 
-A simple Tic-Tac-Toe game implemented using HTML, CSS, and JavaScript, featuring an unbeatable AI opponent.
+A simple Tic-Tac-Toe game implemented using HTML, CSS, and JavaScript, featuring an unbeatable AI opponent. 🤖
 
-## Features
+## ✨ Features
 
 *   Classic Tic-Tac-Toe gameplay
 *   Unbeatable AI opponent using the minimax algorithm
 *   Responsive design for playing on different screen sizes
 
-## How to Play
+## 🎮 How to Play
 
 1.  Open the `main.html` file in your web browser.
 2.  The game will start with your turn as Player X.
